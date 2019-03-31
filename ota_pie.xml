@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DescendantOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <A0001>
-            <Filename>Descendant-TwoDotTwo-Beta-tissot-20190401</Filename>
+        <tissot>
+            <Filename>Descendant-TwoDotTwo-Beta-tissot-20190402</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -11,6 +11,6 @@
                 id="changelog"
                 title="Changelog"
                 description="Checkout Descendant changelogs">https://descendant.me/blog/</ChangelogUrl>
-    </A0001>
+        </tissot>
     </Stable>
 </DescendantOTA>
