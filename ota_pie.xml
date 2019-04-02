@@ -2,7 +2,7 @@
 <DescendantOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tissot>
-            <Filename>Descendant-TwoDotTwo-Beta-tissot-20190403</Filename>
+            <Filename>Descendant-TwoDotTwo-Beta-tissot-20190402</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
