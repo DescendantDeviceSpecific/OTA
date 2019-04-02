@@ -2,11 +2,11 @@
 <DescendantOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tissot>
-            <Filename>Descendant-TwoDotTwo-Beta-tissot-20190401</Filename>
+            <Filename>Descendant-TwoDotTwo-Beta-tissot-20190403</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Descendant builds">https://www.androidfilehost.com/?w=files&amp;flid=292300</RomUrl>
+https://nl3.uploads.androidfilehost.com/dl/wk4Unx5I03ILGXTgk-SdCw/1554406182/1395089523397931094/Descendant-TwoDotTwo-Beta-tissot-20190402.zip                description="Download Descendant builds">https://www.androidfilehost.com/?w=files&amp;flid=292300</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
